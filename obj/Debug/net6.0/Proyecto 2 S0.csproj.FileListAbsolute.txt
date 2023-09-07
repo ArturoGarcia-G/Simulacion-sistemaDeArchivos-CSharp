@@ -1,0 +1,15 @@
+C:\Users\Arturo\source\repos\Proyecto 2 S0\bin\Debug\net6.0\Proyecto 2 S0.exe
+C:\Users\Arturo\source\repos\Proyecto 2 S0\bin\Debug\net6.0\Proyecto 2 S0.deps.json
+C:\Users\Arturo\source\repos\Proyecto 2 S0\bin\Debug\net6.0\Proyecto 2 S0.runtimeconfig.json
+C:\Users\Arturo\source\repos\Proyecto 2 S0\bin\Debug\net6.0\Proyecto 2 S0.dll
+C:\Users\Arturo\source\repos\Proyecto 2 S0\bin\Debug\net6.0\ref\Proyecto 2 S0.dll
+C:\Users\Arturo\source\repos\Proyecto 2 S0\bin\Debug\net6.0\Proyecto 2 S0.pdb
+C:\Users\Arturo\source\repos\Proyecto 2 S0\obj\Debug\net6.0\Proyecto 2 S0.csproj.AssemblyReference.cache
+C:\Users\Arturo\source\repos\Proyecto 2 S0\obj\Debug\net6.0\Proyecto 2 S0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturo\source\repos\Proyecto 2 S0\obj\Debug\net6.0\Proyecto 2 S0.AssemblyInfoInputs.cache
+C:\Users\Arturo\source\repos\Proyecto 2 S0\obj\Debug\net6.0\Proyecto 2 S0.AssemblyInfo.cs
+C:\Users\Arturo\source\repos\Proyecto 2 S0\obj\Debug\net6.0\Proyecto 2 S0.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\source\repos\Proyecto 2 S0\obj\Debug\net6.0\Proyecto 2 S0.dll
+C:\Users\Arturo\source\repos\Proyecto 2 S0\obj\Debug\net6.0\ref\Proyecto 2 S0.dll
+C:\Users\Arturo\source\repos\Proyecto 2 S0\obj\Debug\net6.0\Proyecto 2 S0.pdb
+C:\Users\Arturo\source\repos\Proyecto 2 S0\obj\Debug\net6.0\Proyecto 2 S0.genruntimeconfig.cache
